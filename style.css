@@ -1,0 +1,16 @@
+body{
+    background-color: peru;
+}
+h1{font: 50px;
+    color:brown;
+    border: 10px solid black;
+}
+
+.li.rojo{
+    color:blueviolet
+}
+#ultima{
+    color: gold;
+    font-size: 45px;
+}
+
