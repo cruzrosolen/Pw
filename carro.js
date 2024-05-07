@@ -77,11 +77,11 @@ addToCartButtons.forEach(button => {
         
         switch (producto) {
             case 'mate1':
-                nombreProducto = 'MATE CON LOGO + BASE';
+                nombreProducto = 'MATE CON LOGO Y BASE';
                 precioProducto = 12000;
                 break;
             case 'mate2':
-                nombreProducto = 'MATE + BASE CON LOGO';
+                nombreProducto = 'MATE Y BASE CON LOGO';
                 precioProducto = 12000;
                 break;
             case 'bombilla1':
