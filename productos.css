@@ -198,11 +198,15 @@ footer p {
     font-size: 14px;
     padding: 10px 0;}
 
-@media(max-width: 1367px){
+
+@media(max-width: 1396px){
     .cuartocombo{margin-top: 30px;}
 }
-@media(max-width: 1024px){
+@media(max-width: 1096px){
     .tercercombo,.cuartocombo{margin-top: 30px;}
+}
+@media(max-width: 796px){
+    .segundomate,.segundabombilla, .segundocombo,.tercercombo,.cuartocombo{margin-top: 30px;}
 }
 
 
@@ -214,6 +218,7 @@ footer p {
     .descripcion2 button{margin-bottom: 30px;}
     .flex-container2{margin: 0;}
     .producto_combo{margin-bottom: 50px;}
+    .segundocombo{margin-top: 0;}
 }
 @media(max-width: 616px){.combo{margin-top: 50px;}}
 
@@ -231,4 +236,5 @@ footer p {
     .descripcion2 button { width: 120px;height: 35px; font-size: 11px;}
     .descripcion2 p {width: 120px; font-size: 10px; text-align: left;}
     .producto_combo{margin-bottom: 0;}
-    .tercercombo, .cuartocombo{margin-top: 0;}}
+    .carrito-desplegable {width: 300px;}
+}
